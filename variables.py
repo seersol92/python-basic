@@ -1,3 +1,5 @@
+# A variable is a container for a value, which can be of various types
+
 x = 1 #init
 y = 2.5 #float
 name = 'hadi' #str
